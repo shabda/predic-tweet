@@ -3,7 +3,7 @@
 What is it
 ---------------
 
-Allow people to tweet with hash, hold them accountable for revealing its content.
+Allow people to tweet a prediction with hash, hold them accountable for revealing its content.
 
 What happens currently
 ----------------------------
