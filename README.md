@@ -24,7 +24,7 @@ A predictor can tweet or otherwise disclose a prediction, with guarantees that t
 The parties
 ---------------
 
-1. The predictotor
+1. The predictor
 2. A notary
 3. An oracle
 
